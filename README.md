@@ -45,7 +45,7 @@ The system was evaluated against the out-of-sample testing set, achieving highly
 
 ---
 ## 📊 Graph
-[explore](graph)
+[explore](images)
 
 <img width="616" height="330" alt="Screenshot 2026-07-12 013323" src="https://github.com/user-attachments/assets/e1188955-4a7d-433f-9c99-b55dd063e3e8" />
 <img width="617" height="326" alt="Screenshot 2026-07-12 013333" src="https://github.com/user-attachments/assets/5981133b-4376-43bf-9083-2427eccd03bc" />
