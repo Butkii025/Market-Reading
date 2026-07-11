@@ -13,7 +13,8 @@ An end-to-end predictive analytics system designed to forecast the volatility of
 * **Machine Learning:** Scikit-Learn (Random Forest Regressor)
 * **Data Sourcing:** Yahoo Finance API (`yfinance`)
 * **Visualization:** Matplotlib
-
+* **Domain Focus:** Volatility Forecasting, Risk Modeling, Financial Time-Series Analysis
+  
 ---
 
 ## 🚀 Features
@@ -27,6 +28,7 @@ An end-to-end predictive analytics system designed to forecast the volatility of
 ---
 
 ## 📂 Project Structure
+
 ```text
 ├── notebook.ipynb                      # Interactive Jupyter Notebook pipeline
 ├── NCMPCS abstract.pdf                 # Reseacrh Abstract
