@@ -13,7 +13,6 @@ An end-to-end predictive analytics system designed to forecast the volatility of
 * **Machine Learning:** Scikit-Learn (Random Forest Regressor)
 * **Data Sourcing:** Yahoo Finance API (`yfinance`)
 * **Visualization:** Matplotlib
-* **Domain Focus:** Volatility Forecasting, Risk Modeling, Financial Time-Series Analysis
 
 ---
 
